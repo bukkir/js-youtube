@@ -1,0 +1,30 @@
+----------------------------------Video5------------------------------------------------------------
+
+
+"use strict"; --> This is used to make sure what ever the JS code we write has to be in the newer version
+
+alert(3+3) --> We are using the Node js ,not browser .So different syntax has to bbe used
+
+Readbility has to be good when using the JS
+
+MDN for JS syntax
+tc39.cs defines the standards for the JS
+
+Below are basic data  types available
+
+string ==> "Ravi"
+number ==>  2 to power 53 
+bigInt ==>
+boolean  ==>  true/false
+null ==> standalone value as well as datatype in JS ----? when we use typeof null it gives us as object
+undefined ==> you defined a variable ,but there is no value assigned to it
+        let state;
+        console.log(state)
+ here in above case we get it as undefined
+
+ symbol ==> to identify the uniqueness
+ object
+
+ console.log(typeof "ravi");--> typeof is used to get the whar type is the data
+let a=25
+console.log(typeof(a));
