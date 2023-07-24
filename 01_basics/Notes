@@ -28,3 +28,7 @@ undefined ==> you defined a variable ,but there is no value assigned to it
  console.log(typeof "ravi");--> typeof is used to get the whar type is the data
 let a=25
 console.log(typeof(a));
+
+
+----------------------------------------------------------Video6-----------------------------------------
+
